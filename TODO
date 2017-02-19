@@ -1,0 +1,29 @@
+----------------------
+* OMP traces
+* CUDA traces
+...
+
+Using MPI_Call now
+
+-----------------------
+
+How to choose how to cut the traces?
+    - Spectral?
+    - Based on percentage?
+    - Based on time?
+    - Both?
+	- look at size of trace, then adjust percentage based on that?
+Overlap cuts?
+	- 0:5, 3:8, 6:11, ...
+-------------------------
+
+"Not nice" traces?
+     - Traces that are not nicely divided into loops?
+
+Flushing?
+
+-------------------------
+
+
+Dimemas, simulate ideal.
+	 - learn to simulate this autimatically?
